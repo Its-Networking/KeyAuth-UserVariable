@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8/GZ/TzTGgFzVXy5sDrt54oIKLsNNe9Zi6BWqLEqjPRDW0Lra1+nxC90zHM9occ++iOFOPjc6CvzycBD2C+bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\exodu\\source\\repos\\AutoVariable\\AutoVariable\\AutoVariable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\exodu\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\exodu\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
