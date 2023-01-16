@@ -1,6 +1,9 @@
 # KeyAuth-UserVariable
 Simple user variable application. If the variable exists it will display it, it if does not exist then it will create a new user variable then display it. Very easy to follow along. 
 
+# Note/Disclaimer
+This method uses the KeyAuth webhook function, if you would like to do it without KeyAuth webhook function then you may do KeyAuthApp.getvar("var");/KeyAuthApp.setvar("var", "data"); - this example breaks down how to use the KeyAuth webhook as well as how to deserialize json data if that's something you're interesting it. 
+
 
 ## Seller Subscription Required for this method
 
